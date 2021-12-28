@@ -1,0 +1,6 @@
+Validating runs/train/yolov5x_fold04/weights/best.pt...
+Fusing layers... 
+Model Summary: 213 layers, 7012822 parameters, 0 gradients
+               Class     Images     Labels          P          R     mAP@.5 mAP@
+                 all        674      28726      0.603      0.755      0.691      0.237
+Results saved to runs/train/yolov5x_fold04
