@@ -17,7 +17,7 @@ tutorial.ipynb
 utils/
 val.py
 yolov5/
-yolov5s.pt
+*.pt
 basic_env.txt
 convertor-wheat/
 *.zip
