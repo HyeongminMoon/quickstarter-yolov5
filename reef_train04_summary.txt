@@ -1,0 +1,10 @@
+batch 32 epoch 1 imgsz 1280
+
+Recall이 올랐음
+
+Validating runs/train/yolov5x_fold04/weights/best.pt...
+Fusing layers... 
+Model Summary: 213 layers, 7012822 parameters, 0 gradients
+               Class     Images     Labels          P          R     mAP@.5 mAP@
+                 all        983       2437    0.00155     0.0825    0.00575    0.00117
+Results saved to runs/train/yolov5x_fold04

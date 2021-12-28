@@ -1,5 +1,8 @@
+batch 32 epoch 1 imgsz 1280 wrong
+
 Validating runs/train/yolov5x_fold03/weights/best.pt...
 Fusing layers... 
 Model Summary: 213 layers, 7012822 parameters, 0 gradients
                Class     Images     Labels          P          R     mAP@.5 mAP@
                  all        900       1878   0.000181    0.00639   6.84e-05    1.3e-05
+Results saved to runs/train/yolov5x_fold03
