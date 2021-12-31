@@ -1,3 +1,2 @@
-
 yolo quickstarter with pytorch
 
