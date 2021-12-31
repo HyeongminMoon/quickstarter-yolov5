@@ -1,7 +1,6 @@
 .ipynb_checkpoints/
 CONTRIBUTING.md
 Dockerfile
-README.md
 __pycache__/
 convertor/
 data/
